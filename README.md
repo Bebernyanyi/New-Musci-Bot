@@ -1,1 +1,1 @@
-# New-Musci-Bot
+# New-Music Bot
